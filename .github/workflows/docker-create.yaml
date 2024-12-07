@@ -2,7 +2,7 @@ name: Docker Create
 run-name: Running Docker Image Creation by ${{ github.actor }}
 
 env: 
-  IMAGE_NAME: luqman-node-app
+  IMAGE_NAME: khai-node-app
 
 on:
   push:
